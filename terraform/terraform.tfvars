@@ -1,0 +1,6 @@
+prefix = "slack-sample-app"
+lambda_filename = "project.zip"
+lambda_handler = "handler/lambda_handler.main"
+api_gateway_domain_name = "slack-sample-app.shibataka000.com"
+acm_certificate_arn = "arn:aws:acm:us-east-1:370106426606:certificate/c6893856-0c33-456f-a2b0-0d160c4e7135"
+route53_zone_id = "Z1NLZZMPGFVI19"
